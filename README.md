@@ -44,23 +44,9 @@ Microsoft Dynamics 365 CRM
 
 ---
 
-## 📁 Project Structure
 
-```
-Service-Feedback-Tracker/
-│
-├── Plugins/          # C# plugin code
-├── Workflows/        # CRM workflow documentation
-├── WebResources/     # JavaScript files
-├── Docs/             # Screenshots and diagrams
-└── README.md
-```
 
----
 
-## 📸 Screenshots
-
-<img width="1912" height="818" alt="image" src="https://github.com/user-attachments/assets/7c98b4a9-44f4-4b55-bc1e-5aaa90a79523" />
 
 
 ## ⚙️ How to Use
